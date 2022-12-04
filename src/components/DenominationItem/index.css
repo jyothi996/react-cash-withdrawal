@@ -1,0 +1,15 @@
+.button-list {
+  display: flex;
+  padding: 10px;
+}
+
+.value-button {
+  background-color: #585076;
+  color: #c4c4c4;
+  border: 1px solid #c4c4c4;
+  font-size: 20px;
+  font-family: 'Roboto';
+  border-radius: 5px;
+  width: 150px;
+  height: 35px;
+}
